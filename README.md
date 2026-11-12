@@ -30,12 +30,9 @@
 - Software Architecture & System Design
 
 # 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobitbhattarai94&theme=neon&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sobitbhattarai94&theme=neon&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobitbhattarai94&theme=neon&hide_border=true&layout=compact&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=sobitbhattarai94&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sobitbhattarai94&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sobitbhattarai94&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
